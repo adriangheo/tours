@@ -1,9 +1,7 @@
+const url = 'https://course-api.com/react-tours-project'
+
 function App() {
-  return (
-    <div>
-      Hello React!
-    </div>
-  );
+
 }
 
-export default App;
+export default App
