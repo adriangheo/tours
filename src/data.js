@@ -1,4 +1,4 @@
-export default [
+const data =  [
   {
     id: "rec6d6T5q5EBIdCfD",
     name: "Best of Viena in 4 Days Tour",
@@ -40,3 +40,5 @@ export default [
     price: "1,495",
   },
 ];
+
+export default data;
